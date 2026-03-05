@@ -61,8 +61,7 @@ Principal Component Analysis shows clear separation between control and infected
 
 PC1 explains **69% of the variance**, indicating strong transcriptional differences caused by infection.
 
-![PCA Plot](results/pca_plot_project1.png)
-
+Check on the results -> PCA_Plot_Project1
 Interpretation:
 
 Control samples cluster together while infected samples form a separate cluster, indicating consistent biological differences between conditions.
@@ -73,7 +72,7 @@ Control samples cluster together while infected samples form a separate cluster,
 
 The volcano plot shows genes that are significantly upregulated or downregulated in infected samples.
 
-![Volcano Plot](results/volcano_plot_project1.png)
+Check on the results -> Volcano_Plot_project1
 
 Key observations:
 
@@ -92,7 +91,8 @@ These genes are associated with immune response and inflammation pathways.
 
 The heatmap shows expression patterns of the top significant genes.
 
-![Heatmap](results/heatmap_project1.png)
+Check on the results -> Heatmap_Project1
+
 
 Interpretation:
 
