@@ -61,7 +61,7 @@ Principal Component Analysis shows clear separation between control and infected
 
 PC1 explains **69% of the variance**, indicating strong transcriptional differences caused by infection.
 
-![PCA Plot](results/PCA_plot_project1.png)
+![PCA Plot](results/pca_plot_project1.png)
 
 Interpretation:
 
@@ -96,7 +96,7 @@ The heatmap shows expression patterns of the top significant genes.
 
 Interpretation:
 
-Control samples show lower expression of immune-related genes, while infected samples display strong upregulation of genes involved in immune signaling and inflammation.
+Control samples show lower expression of immune-related genes, while infected samples display strong upregulation of genes involved in immune signalling and inflammation.
 
 Examples include:
 
