@@ -133,8 +133,7 @@ PCA_plot_project1.png
 heatmap_project1.png
 DEG_results.csv
 
-data/
-GSE164073_Eye_count_matrix.csv
+Data/GSE164073_Eye_count_matrix.csv
 
 ---
 # Author
